@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-multipart
+itsdangerous
+SQLAlchemy>=2.0
+psycopg2-binary
